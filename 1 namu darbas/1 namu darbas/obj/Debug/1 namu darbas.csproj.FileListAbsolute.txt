@@ -4,3 +4,9 @@ c:\projects\1 namu darbas\1 namu darbas\bin\Debug\1 namu darbas.pdb
 c:\projects\1 namu darbas\1 namu darbas\obj\Debug\1 namu darbas.csprojResolveAssemblyReference.cache
 c:\projects\1 namu darbas\1 namu darbas\obj\Debug\1 namu darbas.exe
 c:\projects\1 namu darbas\1 namu darbas\obj\Debug\1 namu darbas.pdb
+C:\projects\ProgrammingBasics\1 namu darbas\1 namu darbas\bin\Debug\1 namu darbas.exe.config
+C:\projects\ProgrammingBasics\1 namu darbas\1 namu darbas\obj\Debug\1 namu darbas.exe
+C:\projects\ProgrammingBasics\1 namu darbas\1 namu darbas\obj\Debug\1 namu darbas.pdb
+C:\projects\ProgrammingBasics\1 namu darbas\1 namu darbas\obj\Debug\1 namu darbas.csprojResolveAssemblyReference.cache
+C:\projects\ProgrammingBasics\1 namu darbas\1 namu darbas\bin\Debug\1 namu darbas.exe
+C:\projects\ProgrammingBasics\1 namu darbas\1 namu darbas\bin\Debug\1 namu darbas.pdb
